@@ -12,9 +12,3 @@ Durante o desenvolvimento, realizo etapas de tratamento de dados, análise explo
 ├── notebooks/          # Jupyter Notebooks com os testes e análises
 └── README.md           # Documentação do projeto
 ```
-├── data/               # Arquivos de dados (dataset bruto e tratados)
-├── src/                # Scripts Python
-│   ├── data_cleaning/  # Funções de limpeza e tratamento
-│   └── data_analysis/  # Funções de análise e gráficos
-├── notebooks/          # Jupyter Notebooks com os testes e análises
-└── README.md           # Documentação do projeto
